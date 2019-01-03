@@ -1,4 +1,7 @@
-
+---
+layout: mrrobot
+title: CTF MR Robot
+---
 
 <h1>Mr Robot</h1>
 En este caso me hizo gracia el CTF de Mr. Robot, ya que hace unos guiños a la serie que tantos conocemos.
