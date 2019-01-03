@@ -1,9 +1,3 @@
-<h1>Introducción</h1>
-Hace unos meses me tope con la web de vulnhub.com y me propuse el reto de ir resolviendo las diferentes máquinas virtuales que suben con vulnerabilidades conocidas.
-
-La idea es descargar estas VM con extensión .ova y ejecutarlas en VirtualBox. El fin de estos retos es capturar la bandera , capture the flag (CTF), que normalmente si hay varias la última se encuentra en el directorio root.
-
-Podeis encontrar mas información en mi <a href="https://github.com/danielcastropalomares/security/wiki">github.</a>
 <h1>Mr Robot</h1>
 En este caso me hizo gracia el CTF de Mr. Robot, ya que hace unos guiños a la serie que tantos conocemos.
 
