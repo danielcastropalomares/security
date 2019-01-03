@@ -6,4 +6,4 @@ La idea es descargar estas VM con extensión .ova y ejecutarlas en VirtualBox. E
 
 A continuación adjunto los CTF que he visto mas interesantes:
 
-* [Mr Robot](https://danielcastropalomares.github.io/security/)
+* [Mr Robot](https://danielcastropalomares.github.io/security/mrrobot.md)
