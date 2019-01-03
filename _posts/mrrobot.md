@@ -1,5 +1,5 @@
 ---
----
+
 
 <h1>Mr Robot</h1>
 En este caso me hizo gracia el CTF de Mr. Robot, ya que hace unos guiños a la serie que tantos conocemos.
@@ -346,3 +346,4 @@ Los puntos a tener en cuenta:
  	<li>Actualizaciones del propio sistema base, en este caso nmap se encontraba con una versión antigua y todavía tenía habilitado el modo "interactive". Aun no teniendo el modo interactive también podríamos escaparnos, por <a href="https://gtfobins.github.io/gtfobins/nmap/">ejemplo</a>.</li>
  	<li>Si se configura SUID en un archivo/binario, podemos ejecutarlo como si del propietario se tratase. Por es importante analizar en qué casos es necesario configurarlo o bien si podemos utilizar otras alternativas.</li>
 </ul>
+---
